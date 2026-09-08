@@ -24,7 +24,7 @@ function getDataById(id) {
             idadeAssumida: '20 anos quando assumiu',
             frase: `O tempo voa... quando se vê... já é domingo, quando se vê... já são seis horas, quando se vê, já é
 Natal...  apenas façam, pois só falha e erra, quem tenta.`,
-            imagem: '../style/images/mcs/Otávio Borges Leipnitz.jpg',
+            imagem: '../style/images/mcs/Otávio Borges Leipnitz.jpeg',
             texto: `Sou apenas o que sou porque busquei ser. Ter sido Mestre Conselheiro foi uma experiência única, singular e inesquecível! Dedique-se ao máximo para aproveitar cada segundo dessa jornada, pois, no fim das contas, a ordem demolay não se mede pelos anos que você vive, mas pelo impacto do que você faz com o seu tempo, não importa quantos colares você utiliza, mas sim quantas vidas você consegue mudar. Um verdadeiro líder lidera pelo exemplo: ele serve com renúncia de si mesmo em prol do próximo. Sozinho você pode até chegar mais rápido, mas é juntos que caminhamos mais longe. Lembre sempre e valorize seus irmãos, o tempo não volta. Um por todos, todos por um. Uma vez DeMolay, sempre DeMolay!`
         },
         2025.1: {
@@ -384,7 +384,7 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
             mestreConselheiro: 'Ney Müller',
             idadeAssumida: '19 anos quando assumiu',
             frase: 'Se você seguir as 7 virtudes cardeais, vai longe.',
-            imagem: '../style/images/mcs/Ney Müller.jpeg',
+            imagem: '../style/images/mcs/Ney Muller.jpeg',
             texto: 'Lidar com outras pessoas é desafiador demais, mas é o que nos faz crescer.'
         },
         2003.2: {
