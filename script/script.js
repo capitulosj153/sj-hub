@@ -44,11 +44,11 @@ Natal...  apenas façam, pois só falha e erra, quem tenta.`,
         },
         2024.1: {
             gestao: '2024.1',
-            mestreConselheiro: 'Prada',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: '',
-            texto: 'Detalhes sobre a gestão 2024.1.'
+            mestreConselheiro: 'Felipe Prada ',
+            idadeAssumida: '20 anos quando assumiu',
+            frase: 'Aprenda a separar as coisas que realmente importam do ruído, se deixar o ruído ocupar sua mente, você se esgotará antes de atingir seus objetivos',
+            imagem: '../style/images/mcs/Felipe Prada.jpeg',
+            // texto: 'Detalhes sobre a gestão 2024.1.'
         },
         2023.2: {
             gestao: '2023.2',
@@ -357,11 +357,11 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         2005.2: {
             gestao: '2005.2',
-            mestreConselheiro: 'Mestre Conselheiro 2005.2',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2005.2.'
+            mestreConselheiro: 'Rodrigo dos Santos',
+            idadeAssumida: '20 anos quando assumiu',
+            frase: 'A Ordem Demolay é uma local de formação de lideres',
+            imagem: '../style/images/mcs/Rodrigo Dos Santos.jpeg',
+            texto: `Ser MC é uma tarefa muito difícil, não tive um semestre fácil por conta de problemas pessoais, mais aprendi que é nas derrotas que nos tornamos homens mais fortes e a Ordem Demolay me mostrou isso.`
         },
         2005.1: {
             gestao: '2005.1',
@@ -389,19 +389,19 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         2003.2: {
             gestao: '2003.2',
-            mestreConselheiro: 'Mestre Conselheiro 2003.2',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2003.2.'
+            mestreConselheiro: 'Mauro Paes Jr.',
+            idadeAssumida: '18 anos qunando assumiu',
+            frase: 'A Ordem DeMolay sempre vai ser a melhor escola da vida, continue frequentando.',
+            imagem: '../style/images/mcs/Mauro Paes Jr.jpeg',
+            texto: 'Minha Gestão foi baseada na continuação da recuperação do cap. Após a saída de alguns irmãos para a instalação do cap Palhoça. Caracterizada pelo realização de sessões em conjunto com outros cap da grande Floripa. Uma sessão magna em cojunto com cap. Florianópolis no templo da pequeno Príncipe foi um exemplo disso.'
         },
         2003.1: {
             gestao: '2003.1',
-            mestreConselheiro: 'Mestre Conselheiro 2003.1',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2003.1.'
+            mestreConselheiro: 'Luiz Antônio Sonagli',
+            idadeAssumida: '20 anos quando assumiu',
+            frase: 'Nunca desista, não perca as esperanças. O trabalho é difícil, árduo, porém com muitos aprendizados para quem excerce funções.',
+            imagem: '../style/images/mcs/Luiz Antônio Sonagli.jpeg',
+            texto: 'Dessa vez eu tinha um capítulo forte, trabalhador, com recursos... Outro patamar. <br><br> Foi um dos primeiros eventos que teve uma boa remuneração. Além de ter sido a primeira feijoada da tradição. Investimos muito em integração, em manter o capítulo muito unido. Foi muito bom '
         },
         2002.2: {
             gestao: '2002.2',
@@ -453,11 +453,11 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         1999.2: {
             gestao: '1999.2',
-            mestreConselheiro: 'Mestre Conselheiro 1999.2',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1999.2.'
+            mestreConselheiro: 'Luiz Antônio Sonagli',
+            idadeAssumida: '16 anos quando assumiu',
+            frase: 'Nunca desista, não perca as esperanças. O trabalho é difícil, árduo, porém com muitos aprendizados para quem excerce funções.',
+            imagem: '../style/images/mcs/Luiz Antônio Sonagli.jpeg',
+            texto: 'Foi uma gestão difícil, com uma turma que brincava muito e trabalhava pouco. Quando era sobre brincadeira a turma era a primeira, mas trabalhar que é bom, nada. Então foi uma gestão muito difícil, o capítulo tava bem fraco. Foi bem difícil, logo depois o pessoal do palhoça estava abrindo o capítulo e chamando os meninos do São José, então foi uma gestão bem difícil, mas conseguimos manter o capítulo de pé e com força.'
         },
         1999.1: {
             gestao: '1999.1',
@@ -485,11 +485,22 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         1997.2: {
             gestao: '1997.2',
-            mestreConselheiro: 'Mestre Conselheiro 1997.2',
-            idadeAssumida: 'Idade desconhecida',
+            mestreConselheiro: 'Marco Aurélio Koerich',
+            idadeAssumida: '19 anos quando assimiu',
             frase: 'Detalhes indisponíveis',
             imagem: null,
-            texto: 'Detalhes sobre a gestão 1997.2.'
+            texto: `Minha trajetoria como mestre conselheiro foi um grande desafio pois tinha 19 anos e depois de um tempo com atividades suspensas decidimos com a força e uniao dos irmaos reabrir e dar um destino pujante ao capitulo.
+As reunioes feitas com Alexander caldeira, Gustavo, Alexandre madeia e outros foram vitais para que nosso capitulo voltasse a operar em harmonia e força.
+Recebemos muito apoio de irmaos de outro capitulos, inclusive do Irmao Anderson Malgueiro que esteve perto a todo tempo.
+Fiz um novo brasao e ele nos deu muita alegria e perspectiva que algo novo, consistente e fortte viria.
+Para dar maior estabilidade assumi mais um mandato e entao o capitulo leve e harmonico se tornou referencia em uniao e ritualistica no estado todo.
+
+Hoje residindo nos EUA quero agradecer a todos os irmãos que me apoiaram, meu padrinho Alexandre Madeira, meu cumpadre e duplamente irmao Anderson Redinha Malgueiro por permitirem fazer parte dessa ordem maravilhosa.
+Feliz e orgulho estou pelos 35 anos de Gloria do São Jose, querendo poder muito rever a todos.
+Que esta futura geração entenda o poder de nossa juventude, e que saibam que o companheirismo esta no centro de tudo, motivo pelo qual refizemos um novo capitulo e que hoje é realidade e referencia estadual.
+Que os tios sempre possam estar apoiando e deixando as lideranças decidirem para apreendizado, mas que no momento oportuno façam suas intervenções para o bem geral da ordem e do capitulo, sem ego e vaidade acima de tudo.
+Desejo Sucesso, força e união a todos.
+`
         },
         1997.1: {
             gestao: '1997.1',
@@ -549,43 +560,43 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         1993.2: {
             gestao: '1993.2',
-            mestreConselheiro: 'Mestre Conselheiro 1993.2',
+            mestreConselheiro: 'Fabiano Linhares',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
             imagem: null,
-            texto: 'Detalhes sobre a gestão 1993.2.'
+            texto: 'Detalhes desconhecidos sobre a gestão 1993.2.'
         },
         1993.1: {
             gestao: '1993.1',
-            mestreConselheiro: 'Mestre Conselheiro 1993.1',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1993.1.'
+            mestreConselheiro: 'Nenhum',
+            // idadeAssumida: 'Idade desconhecida',
+            // frase: 'Detalhes indisponíveis',
+            imagem: '../style/images/dm.png',
+            texto: 'O capítulo foi fundado em 1991.2, porém ele só foi ser instalado em 1993.2 Ficou 2 anos sem gestão...'
         },
         1992.2: {
             gestao: '1992.2',
-            mestreConselheiro: 'Mestre Conselheiro 1992.2',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1992.2.'
+            mestreConselheiro: 'Nenhum',
+            // idadeAssumida: 'Idade desconhecida',
+            // frase: 'Detalhes indisponíveis',
+            imagem: '../style/images/dm.png',
+            texto: 'O capítulo foi fundado em 1991.2, porém ele só foi ser instalado em 1993.2 Ficou 2 anos sem gestão...'
         },
         1992.1: {
             gestao: '1992.1',
-            mestreConselheiro: 'Mestre Conselheiro 1992.1',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1992.1.'
+            mestreConselheiro: 'Nenhum',
+            // idadeAssumida: 'Idade desconhecida',
+            // frase: 'Detalhes indisponíveis',
+            imagem: '../style/images/dm.png',
+            texto: 'O capítulo foi fundado em 1991.2, porém ele só foi ser instalado em 1993.2 Ficou 2 anos sem gestão...'
         },
         1991.2: {
             gestao: '1991.2',
-            mestreConselheiro: 'Mestre Conselheiro 1991.2',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1991.2.'
+            mestreConselheiro: 'Nenhum',
+            // idadeAssumida: 'Idade desconhecida',
+            // frase: 'Detalhes indisponíveis',
+            imagem: '../style/images/dm.png',
+            texto: 'O capítulo foi fundado em 1991.2, porém ele só foi ser instalado em 1993.2 Ficou 2 anos sem gestão...'
         }
     };
 
