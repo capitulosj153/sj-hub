@@ -5,18 +5,18 @@ function getDataById(id) {
         2026.2: {
             gestao: '2026.1',
             mestreConselheiro: 'Augusto de Aguiar Cordoni',
-            idadeAssumida: '17 anos',
-            frase: 'Enrolo o quanto posso',
-            imagem: 'images/mcs/26-1.jpg',
-            texto: `Decepção.`
+            idadeAssumida: '18 anos',
+            frase: `Esse ano foi marcado por três frases pra mim, "Criar empatia pelos outros, significa entender suas falhas e fraquezas,...", "A realidade desigual, é a única coisa que todos recebem por igual." e pra mim, a mais triste porém verdadeira, "Mas não importa quantos aliados você tenha, quando morrer vai estar sozinho...". A mensagem que tenho para todos os meus irmãos, é de que, você não precisa sentir medo em seguir seu coração, mesmo que suas escolhas magoem seus próximos, siga aquilo que você acredita ser o certo e aquilo que o faz bem.`,
+            imagem: '../style/images/mcs/Augusto de Aguiar Cordoni.jpeg',
+            texto: ` Entrei como MC no objetivo de juntar o Capítulo novamente, despolariza-lo. No entanto, com o objetivo também de fazer uma gestão incrível como a do meu irmão Otávio Borges da gestão 25.2, com um evento incrível, porém, com alguns contratempos e falta de vontade de minha parte, quebrei a cara imaginando que seria algo grandioso. Tendo como maior dificuldade dizer não para opiniões alheias, pude perceber, por meio dos meus irmãos, que o que deveria prevalecer são minhas opiniões e convicções, seguindo o que acredito que é certo pra mim. Essa gestão pode até não marcar meus irmãos, mas com certeza me fez e ainda me fara mudar e evoluir muito como pessoa. Agradeço todos os dias por ter tido essa oportunidade. Que Deus abençoe a causa da Ordem DeMolay!`
         },
         2026.1: {
             gestao: '2026.1',
             mestreConselheiro: 'Bruno Eduardo Vieira',
             idadeAssumida: '17 anos',
-            frase: 'Façam tudo por mim',
-            imagem: 'images/mcs/26-1.jpg',
-            texto: `Fiz o evento por conta dos meus pais.`
+            frase: 'Seus olhos estão na frente justamente para você ver o que está por vir. Siga sempre em frente',
+            imagem: '../style/images/mcs/Bruno Eduardo Vieira.jpeg',
+            texto: 'Detalhes indisponíveis sobre a gestão 26.1'
         },
         2025.2: {
             gestao: '2025.2',
@@ -32,7 +32,8 @@ Natal...  apenas façam, pois só falha e erra, quem tenta.`,
             mestreConselheiro: 'Francisco Malischeski Schaurich',
             idadeAssumida: '17 anos',
             frase: 'Honrar o legado, viver o presente e dedicar-se ao futuro.',
-            imagem: 'images/mcs/25-1.jpg'
+            imagem: '../style/images/mcs/Francisco Malischeski.jpeg',
+            texto: `A gestão foi maravilhosa para o desenvolvimento pessoal. Fico muito feliz de como aprendi a lidar melhor com responsabilidades durante ela. Entendi que liderar é completamente diferente de mandar. Tenho muito orgulho de que o capítulo de São José foi colocado com a melhor colocação no desafio Demolay e melhorou a união dos membros do capítulo.`
         },
         2024.2: {
             gestao: '2024.2',
@@ -55,7 +56,7 @@ Natal...  apenas façam, pois só falha e erra, quem tenta.`,
             mestreConselheiro: 'Rafael Teodoro de Moraes',
             idadeAssumida: '20 anos quando assumiu',
             frase: 'Faça planos como um adulto e acredite neles como uma criança.',
-            imagem: null,
+            imagem: '../style/images/mcs/Rafael Teodoro de Moraes.jpeg',
             texto: 'Detalhes sobre a gestão 2023.2.'
         },
         2023.1: {
@@ -79,40 +80,40 @@ Natal...  apenas façam, pois só falha e erra, quem tenta.`,
             mestreConselheiro: 'Arthur Correia',
             idadeAssumida: '17 anos quando assumiu',
             frase: 'Ser pequeno não serve ao mundo, não tem nada de sábio em se encolher para que as outras pessoas não se sintam inseguras ao seu redor, todos fomos feitos para irradiar.',
-            imagem: null,
-            texto: 'credito que o que mudou em mim foi a responsabilidade, criei vínculos e relações com muita gente e me aproximei muito de todo mundo que frequentava. Me entreguei de coração pra fazer algo legal e acho que todo mundo percebeu isso, e acabou se entregando tbm pra parada, algo assim.'
+            imagem: '../style/images/mcs/Arthur Correia.jpeg',
+            texto: 'Acredito que o que mudou em mim foi a responsabilidade, criei vínculos e relações com muita gente e me aproximei muito de todo mundo que frequentava. Me entreguei de coração pra fazer algo legal e acho que todo mundo percebeu isso, e acabou se entregando tbm pra parada, algo assim.'
         },
         2021.2: {
             gestao: '2021.2',
-            mestreConselheiro: 'Mestre Conselheiro 2021.2',
+            mestreConselheiro: 'Gabriel Melo (Avaí)',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2021.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Detalhes desconhecidos sobre a gestão 2021.2.'
         },
         2021.1: {
             gestao: '2021.1',
-            mestreConselheiro: 'Mestre Conselheiro 2021.1',
+            mestreConselheiro: 'Vitor Ross Adriano',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2021.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Detalhes desconhecidos sobre a gestão 2021.1.'
         },
         2020.2: {
             gestao: '2020.2',
-            mestreConselheiro: 'Mestre Conselheiro 2020.2',
+            mestreConselheiro: 'Vitor Ross Adriano',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2020.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Detalhes desconhecidos sobre a gestão 2020.2.'
         },
         2020.1: {
             gestao: '2020.1',
-            mestreConselheiro: 'Mestre Conselheiro 2020.1',
+            mestreConselheiro: 'Luiz Vinícius de Andrade',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2020.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Detalhes desconhecidos sobre a gestão 2020.1.'
         },
         2019.2: {
             gestao: '2019.2',
@@ -124,11 +125,11 @@ Natal...  apenas façam, pois só falha e erra, quem tenta.`,
         },
         2019.1: {
             gestao: '2019.1',
-            mestreConselheiro: 'Mestre Conselheiro 2019.1',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2019.1.'
+            mestreConselheiro: 'Matheus Bateli Neumann',
+            idadeAssumida: '19 anos quando assumiu',
+            frase: 'A vida é efêmera, não desperdice uma oportunidade por medo. Se te causa preocupação, é porque importa, se importa vale a pena. Não deixe de tentar.',
+            imagem: '../style/images/dm.png',
+            texto: 'A gestão de 2019.1 foi marcada pelos 100 anos da ordem DeMolay, foi um momento único do qual eu tive a honra e o privilégio de compartilhar com meus irmãos. Ser Mestre Conselheiro mudou completamente minha perspectiva de vida, me moldou como um ser humano melhor e mais dedicado, me fez enxergar o potencial nas pessoas e aprender verdadeiramente que o mundo pode ser sim um lugar incrível.'
         },
         2018.2: {
             gestao: '2018.2',
@@ -181,15 +182,15 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         2016.2: {
             gestao: '2016.2',
-            mestreConselheiro: 'Mestre Conselheiro 2016.2',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2016.2.'
+            mestreConselheiro: 'Rodrigo Alves Cavalcante',
+            idadeAssumida: '19 anos quando assumiu',
+            frase: 'Das colunas vistes, às colunas retornarás. Lembre-se disso',
+            imagem: '../style/images/mcs/Rodrigo Alves Cavalcante.jpeg',
+            texto: 'Minha gestão foi muito bom em questão de engrandecimento e maturidade pois foi bem desafiadora. Tive dois eventos grandes, evento filantropico e os 25 anos do capítulo e conseguimos fazer os dois com maestria. tivermos alguns contratempo como toda gestão mas a minha Administração era sensacional, justamente com todos os irmãos, conseguimos fazer uma bela gestão e dois belos eventos. Minha gestão mudou mto em mim, me tornei mais responsável e maduro pois precisei enfrentar algumas dificuldades de frente e insistir muito pra algumas coisas darem certo e acredito q posso falar o mesmo dos irmãos que estavam comigo na época!.'
         },
         2016.1: {
             gestao: '2016.1',
-            mestreConselheiro: 'Mestre Conselheiro 2016.1',
+            mestreConselheiro: 'Francisco Campos',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
             imagem: null,
@@ -197,7 +198,7 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         2015.2: {
             gestao: '2015.2',
-            mestreConselheiro: 'Mestre Conselheiro 2015.2',
+            mestreConselheiro: 'Júlio Sidney Veras Pacheco',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
             imagem: null,
@@ -269,11 +270,11 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         2011.1: {
             gestao: '2011.1',
-            mestreConselheiro: 'Mestre Conselheiro 2011.1',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2011.1.'
+            mestreConselheiro: 'Carlos Eduardo Zuchetto Soares (Cadu Zuchetto)',
+            idadeAssumida: '20 anos de idade quando assumiu',
+            frase: 'Nossa missão é construir filhos e homens melhores para o mundo',
+            imagem: '../style/images/mcs/Carlos Eduardo Zuchetto Soares.jpeg',
+            texto: 'Um capítulo unido muda o futuro de todos os envolvidos.'
         },
         2010.2: {
             gestao: '2010.2',
@@ -293,11 +294,11 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         2009.2: {
             gestao: '2009.2',
-            mestreConselheiro: 'Mestre Conselheiro 2009.2',
+            mestreConselheiro: 'Eladio L. Isoppo Filho',
             idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
+            frase: 'Continuem o aprendizado continuo e mantenham vivo significado de ser um Demolay para que proximas geracoes tenha essa oportunidade.',
             imagem: null,
-            texto: 'Detalhes sobre a gestão 2009.2.'
+            texto: 'Ter sido MC foi fundamental para a minha formação como lider. Aprendi coisas dentro do capitulo que levaria muito mais tempo para vivenciar e aprender fora. Com respectivos erros e acertos. Meu carinho pela Ordem Demolay é grande. '
         },
         2009.1: {
             gestao: '2009.1',
@@ -317,19 +318,25 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         2008.1: {
             gestao: '2008.1',
-            mestreConselheiro: 'Mestre Conselheiro 2008.1',
+            mestreConselheiro: 'Eduardo Roberto Rosa Junior',
             idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2008.1.'
+            frase: 'Valorize cada momento vivido dentro da Ordem DeMolay. Mais do que cargos, cerimônias e responsabilidades, são os irmãos, as amizades e os valores que levamos para a vida toda.',
+            imagem: '../style/images/mcs/Eduardo Roberto Rosa Junior.jpeg',
+            texto: `Ser Mestre Conselheiro do Capítulo São José foi uma experiência muito marcante na minha adolescência. Naquela época, eu ainda estava formando muitos dos valores e princípios que carrego comigo até hoje, e assumir a liderança do Capítulo me ensinou muito sobre responsabilidade, comprometimento, respeito e, principalmente, sobre a importância de trabalhar em equipe.
+<br><br>
+Mais do que conduzir uma gestão, tive a oportunidade de crescer junto com os outros meninos. Aprendemos juntos a assumir responsabilidades, organizar atividades, superar dificuldades e entender que liderança não significa apenas estar à frente, mas também saber ouvir, ajudar e dar o exemplo.
+<br><br>
+Olhando para trás, percebo que a Ordem DeMolay teve uma importância muito grande na minha formação. Muitas amizades daquela época permaneceram, e vários ensinamentos levados para a vida adulta começaram dentro do Capítulo.
+<br><br>
+Ser Mestre Conselheiro foi, sem dúvida, uma das experiências mais importantes da minha adolescência, e tenho muito orgulho de ter feito parte da história do Capítulo São José`
         },
         2007.2: {
             gestao: '2007.2',
-            mestreConselheiro: 'Mestre Conselheiro 2007.2',
+            mestreConselheiro: 'Luiz Henrique Bendlin',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
             imagem: null,
-            texto: 'Detalhes sobre a gestão 2007.2.'
+            texto: 'Detalhes indisponíveis sobre a gestão 2007.2.'
         },
         2007.1: {
             gestao: '2007.1',
@@ -341,18 +348,18 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         2006.2: {
             gestao: '2006.2',
-            mestreConselheiro: 'Eduardo Roberto Rosa Junior',
+            mestreConselheiro: 'Mestre Conselheiro 2006.2',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: '../style/images/mcs/Eduardo Roberto Rosa Junior.jpeg',
+            imagem: null,
             texto: 'Detalhes sobre a gestão 2006.2.'
         },
         2006.1: {
             gestao: '2006.1',
-            mestreConselheiro: 'Eduardo Roberto Rosa Junior',
+            mestreConselheiro: 'Mestre Conselheiro 2006.1',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: '../style/images/mcs/Eduardo Roberto Rosa Junior.jpeg',
+            imagem: null,
             texto: 'Detalhes sobre a gestão 2006.1.'
         },
         2005.2: {
