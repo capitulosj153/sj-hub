@@ -119,9 +119,12 @@ Natal...  apenas façam, pois só falha e erra, quem tenta.`,
             gestao: '2019.2',
             mestreConselheiro: 'Matheus Silveira da Silva',
             idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
+            frase: `Sejam irmãos. O capítulo é muito mais do que a ida aos domingos, é muito mais que uma ritualística bem feita.. é o Aprendizado com os tios, é as discussões e decisões complicadas, é sobre aprender coisas que a escola não ensina (amizade, irmandade, administração, respeito e hierarquia). 
+Antes de querer ajudar o próximo, temos de nos ajudar, nos conhecer, e isso é um dos porquês a ordem foi criada. 
+Cargos, medalhas, prêmios, no final das contas são apenas histórias.. mas os irmãos que fazemos e o aprendizado que temos será para vida toda.`,
             imagem: '../style/images/dm.png',
-            texto: 'Não foi possível obter detalhes sobre a gestão 2019.2.'
+            texto: `A minha gestão ela foi um pouco conturbada.. estava no limiar dos 20-21 anos, trabalhava de madrugada (16h-04h), estava na faculdade ADS, e naquele momento estava com bastante problemas pessoais. 
+<br>,br>Minha gestão foi toda pautada na unificação do supremo, foi quando houveram as assinaturas da unificação do SCODB/SCODRFB, então foi uma gestão 100% administrativa. Não cumpri as campanhas, não alavanquei o capítulo, mas fiz de tudo pra manter os meninos próximos, engajados e com vontade da ordem DeMolay.`
         },
         2019.1: {
             gestao: '2019.1',
