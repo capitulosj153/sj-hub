@@ -16,7 +16,7 @@ function getDataById(id) {
             idadeAssumida: '17 anos',
             frase: 'Seus olhos estão na frente justamente para você ver o que está por vir. Siga sempre em frente',
             imagem: '../style/images/mcs/Bruno Eduardo Vieira.jpeg',
-            texto: 'Detalhes indisponíveis sobre a gestão 26.1'
+            // texto: 'Detalhes indisponíveis sobre a gestão 26.1'
         },
         2025.2: {
             gestao: '2025.2',
@@ -32,7 +32,7 @@ Natal...  apenas façam, pois só falha e erra, quem tenta.`,
             mestreConselheiro: 'Francisco Malischeski Schaurich',
             idadeAssumida: '17 anos',
             frase: 'Honrar o legado, viver o presente e dedicar-se ao futuro.',
-            imagem: '../style/images/mcs/Francisco Malischeski.jpeg',
+            imagem: '../style/images/mcs/Francisco Malischeski Schaurich.jpeg',
             texto: `A gestão foi maravilhosa para o desenvolvimento pessoal. Fico muito feliz de como aprendi a lidar melhor com responsabilidades durante ela. Entendi que liderar é completamente diferente de mandar. Tenho muito orgulho de que o capítulo de São José foi colocado com a melhor colocação no desafio Demolay e melhorou a união dos membros do capítulo.`
         },
         2024.2: {
@@ -89,7 +89,7 @@ Natal...  apenas façam, pois só falha e erra, quem tenta.`,
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
             imagem: '../style/images/dm.png',
-            texto: 'Detalhes desconhecidos sobre a gestão 2021.2.'
+            texto: 'Não foi possível obter detalhes sobre a gestão 2021.2.'
         },
         2021.1: {
             gestao: '2021.1',
@@ -97,7 +97,7 @@ Natal...  apenas façam, pois só falha e erra, quem tenta.`,
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
             imagem: '../style/images/dm.png',
-            texto: 'Detalhes desconhecidos sobre a gestão 2021.1.'
+            texto: 'Não foi possível obter detalhes sobre a gestão 2021.1.'
         },
         2020.2: {
             gestao: '2020.2',
@@ -105,30 +105,30 @@ Natal...  apenas façam, pois só falha e erra, quem tenta.`,
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
             imagem: '../style/images/dm.png',
-            texto: 'Detalhes desconhecidos sobre a gestão 2020.2.'
+            texto: 'Não foi possível obter detalhes sobre a gestão 2020.2.'
         },
         2020.1: {
             gestao: '2020.1',
             mestreConselheiro: 'Luiz Vinícius de Andrade',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: '../style/images/dm.png',
-            texto: 'Detalhes desconhecidos sobre a gestão 2020.1.'
+            idadeAssumida: '20 anos quando assumiu',
+            frase: 'Não tenham medo de ter e trazer ideias de coisas novas. Não existe ideia ruim, existe ideia mal refinada.',
+            imagem: '../style/images/mcs/Luiz Vinícius de Andrade.jpeg',
+            texto: `Eu fui um MC abençoado. Gosto de brincar, sem falsa modéstia, que eu estava tão preparado que foi preciso um desafio grande feito sob medida pra mim. Assumi a gestão do capítulo em 08/03/2020, exatamente uma semana antes do lockdown que iniciou a pandemia de COVID-19 no Brasil, e exatamente 10 dias depois de eu ter ficado internado um mês no hospital por problemas cirúrgicos. Foi uma gestão completamente diferente do que estamos acostumados, totalmente longe das salas capitulares, mas sempre buscando manter acessa as chamas das nossas virtudes. Ao invés de chorar e lamentar pelo momento e pela distância, buscamos as oportunidades únicas que, em tempos comuns, não teríamos. Filantropias para ajudar quem precisava nesse momento tão dramático no mundo, fizemos sessões conjuntas com capítulos da Bahia e de Minas Gerais, sessões que aconteceram no Minecraft, iniciando por reconstruir nosso templo e abrir e fechar uma sessão lá, produzirmos uma homenagem de dia das mães que no fim se tornou um vídeo completo no YouTube, entre tantas coisas que tentamos fazer para manter a união naquele momento. Certamente, a maior lição de resiliência e perseverança que qualquer MC poderia ter. No fim, essa gestão (e as 3 seguintes) tiveram um só foco: Manter a união e o capítulo vivo. E hoje cá estamos, nos 35 anos`
         },
         2019.2: {
             gestao: '2019.2',
-            mestreConselheiro: 'Mestre Conselheiro 2019.2',
+            mestreConselheiro: 'Matheus Silveira da Silva',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2019.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2019.2.'
         },
         2019.1: {
             gestao: '2019.1',
             mestreConselheiro: 'Matheus Bateli Neumann',
             idadeAssumida: '19 anos quando assumiu',
             frase: 'A vida é efêmera, não desperdice uma oportunidade por medo. Se te causa preocupação, é porque importa, se importa vale a pena. Não deixe de tentar.',
-            imagem: '../style/images/dm.png',
+            imagem: '../style/images/mcs/Matheus Bateli Neumann.jpeg',
             texto: 'A gestão de 2019.1 foi marcada pelos 100 anos da ordem DeMolay, foi um momento único do qual eu tive a honra e o privilégio de compartilhar com meus irmãos. Ser Mestre Conselheiro mudou completamente minha perspectiva de vida, me moldou como um ser humano melhor e mais dedicado, me fez enxergar o potencial nas pessoas e aprender verdadeiramente que o mundo pode ser sim um lugar incrível.'
         },
         2018.2: {
@@ -193,7 +193,7 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
             mestreConselheiro: 'Francisco Campos',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
+            imagem: '../style/images/dm.png',
             texto: 'Detalhes sobre a gestão 2016.1.'
         },
         2015.2: {
@@ -201,72 +201,72 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
             mestreConselheiro: 'Júlio Sidney Veras Pacheco',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
+            imagem: '../style/images/dm.png',
             texto: 'Detalhes sobre a gestão 2015.2.'
         },
         2015.1: {
             gestao: '2015.1',
-            mestreConselheiro: 'Mestre Conselheiro 2015.1',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2015.1.'
+            mestreConselheiro: 'Gabriel Ghisi Philippi',
+            idadeAssumida: '18 anos quando assumiu',
+            frase: 'Meu conselho para quem está trilhando o caminho das sete velas é aproveita ao máximo a experiência em grupo de liderança, foi um dos maiores ensinamentos e o que mais me ajudou a me destacar na vida profana.',
+            imagem: '../style/images/mcs/Gabriel Ghisi Philippi.jpeg',
+            texto: 'Sobre a minha gestão, na época foi um período de ascensão aonde existia uma falta de comprometimento muito grande e com muitas dinâmicas dentro e fora do templo e a união dos membros fez ser uma gestão extremamente unida, lembro que não existia um peso na liderança, todo mundo fazia parte e queria estar presente nas sessões e nos eventos justamente pelos motivos nobres, vi muita gente se espelhar no meu modelo de gestão da época e aplicar na sequência'
         },
         2014.2: {
             gestao: '2014.2',
-            mestreConselheiro: 'Mestre Conselheiro 2014.2',
+            mestreConselheiro: 'Gabriel Durrewald',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2014.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2014.2.'
         },
         2014.1: {
             gestao: '2014.1',
-            mestreConselheiro: 'Mestre Conselheiro 2014.1',
+            mestreConselheiro: 'Lucas Lacerda',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2014.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2014.1.'
         },
         2013.2: {
             gestao: '2013.2',
-            mestreConselheiro: 'Mestre Conselheiro 2013.2',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2013.2.'
+            mestreConselheiro: 'André Carvalho',
+            idadeAssumida: 'In memorian de André Carvalho',
+            frase: 'Amado filho, irmão e homem de bem ',
+            imagem: '../style/images/dm.png',
+            texto: 'Uma boa alma que se foi muito cedo deste universo. Foi encontrar o Pai Celestial. Que sua memória seja lembrada e que seu legado seja perpetuado. Que o Pai Celestial o tenha em sua glória.'
         },
         2013.1: {
             gestao: '2013.1',
-            mestreConselheiro: 'Mestre Conselheiro 2013.1',
+            mestreConselheiro: 'Diego Poletto',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2013.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2013.1.'
         },
         2012.2: {
             gestao: '2012.2',
-            mestreConselheiro: 'Mestre Conselheiro 2012.2',
+            mestreConselheiro: 'Lucas Wiggers',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2012.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2012.2.'
         },
         2012.1: {
             gestao: '2012.1',
-            mestreConselheiro: 'Mestre Conselheiro 2012.1',
+            mestreConselheiro: 'Guilherme Lima',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2012.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2012.1.'
         },
         2011.2: {
             gestao: '2011.2',
-            mestreConselheiro: 'Mestre Conselheiro 2011.2',
+            mestreConselheiro: 'Gustavo Palladini',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2011.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2011.2.'
         },
         2011.1: {
             gestao: '2011.1',
@@ -278,26 +278,26 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
         },
         2010.2: {
             gestao: '2010.2',
-            mestreConselheiro: 'Mestre Conselheiro 2010.2',
+            mestreConselheiro: 'Igor Luiz Prats',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2010.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2010.2.'
         },
         2010.1: {
             gestao: '2010.1',
-            mestreConselheiro: 'Mestre Conselheiro 2010.1',
+            mestreConselheiro: 'Vinícius Skowach',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2010.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2010.1.'
         },
         2009.2: {
             gestao: '2009.2',
             mestreConselheiro: 'Eladio L. Isoppo Filho',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Continuem o aprendizado continuo e mantenham vivo significado de ser um Demolay para que proximas geracoes tenha essa oportunidade.',
-            imagem: null,
+            imagem: '../style/images/dm.png',
             texto: 'Ter sido MC foi fundamental para a minha formação como lider. Aprendi coisas dentro do capitulo que levaria muito mais tempo para vivenciar e aprender fora. Com respectivos erros e acertos. Meu carinho pela Ordem Demolay é grande. '
         },
         2009.1: {
@@ -305,16 +305,16 @@ Foi um aprendizado que levei para a vida e sou muito grato aos meus conselheiros
             mestreConselheiro: 'Mestre Conselheiro 2009.1',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
+            imagem: '../style/images/dm.png',
             texto: 'Detalhes sobre a gestão 2009.1.'
         },
         2008.2: {
             gestao: '2008.2',
-            mestreConselheiro: 'Mestre Conselheiro 2008.2',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2008.2.'
+            mestreConselheiro: 'Alexander Franzmann Dürrewald',
+            idadeAssumida: '20 anos quando assumiu',
+            frase: '"E, no entanto, cada um de vocês, sendo um Demolay, traz dentro de seu coração uma chama, um facho para lhe guiar através da escuridão. Se puder fazer esta luz brilhar sobre outra pessoa, se puder penetrar nas profundezas mais recônditas de sua alma e acender a chama que ali está, então ai reside o objetivo da Ordem Demolay, ali está a sua finalidade de viver." Cerimônia da Luz',
+            imagem: '../style/images/mcs/Alexander Franzmann Dürrewald.jpeg',
+            texto: 'Aprendi que a Ordem é sobre servir, ajudar o próximo, ter atitude, fazer acontecer, e que quanto mais eu me dedicava a Ordem, mais eu aprendia, e vejo que tudo o que vivi, me tornou parte de quem eu sou hoje.'
         },
         2008.1: {
             gestao: '2008.1',
@@ -335,32 +335,32 @@ Ser Mestre Conselheiro foi, sem dúvida, uma das experiências mais importantes 
             mestreConselheiro: 'Luiz Henrique Bendlin',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes indisponíveis sobre a gestão 2007.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2007.2.'
         },
         2007.1: {
             gestao: '2007.1',
-            mestreConselheiro: 'Mestre Conselheiro 2007.1',
+            mestreConselheiro: 'Rodrigo Dehlano',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2007.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2007.1.'
         },
         2006.2: {
             gestao: '2006.2',
-            mestreConselheiro: 'Mestre Conselheiro 2006.2',
+            mestreConselheiro: 'Mestre Conselheiro 2006.2 DESCONHECIDO',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2006.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2006.2.'
         },
         2006.1: {
             gestao: '2006.1',
-            mestreConselheiro: 'Mestre Conselheiro 2006.1',
+            mestreConselheiro: 'Mestre Conselheiro 2006.1 DESCONHECIDO',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2006.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2006.1.'
         },
         2005.2: {
             gestao: '2005.2',
@@ -372,19 +372,19 @@ Ser Mestre Conselheiro foi, sem dúvida, uma das experiências mais importantes 
         },
         2005.1: {
             gestao: '2005.1',
-            mestreConselheiro: 'Mestre Conselheiro 2005.1',
+            mestreConselheiro: 'Renato Grah',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2005.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2005.1.'
         },
         2004.2: {
             gestao: '2004.2',
-            mestreConselheiro: 'Mestre Conselheiro 2004.2',
+            mestreConselheiro: 'André Rachadel',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2004.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2004.2.'
         },
         2004.1: {
             gestao: '2004.1',
@@ -412,51 +412,51 @@ Ser Mestre Conselheiro foi, sem dúvida, uma das experiências mais importantes 
         },
         2002.2: {
             gestao: '2002.2',
-            mestreConselheiro: 'Mestre Conselheiro 2002.2',
+            mestreConselheiro: 'Leon',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2002.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2002.2.'
         },
         2002.1: {
             gestao: '2002.1',
-            mestreConselheiro: 'Mestre Conselheiro 2002.1',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2002.1.'
+            mestreConselheiro: 'Valmor Segala',
+            idadeAssumida: 'In memorian de Valmor Segala',
+            frase: 'Amado filho, irmão e homem de bem ',
+            imagem: '../style/images/dm.png',
+            texto: 'Uma boa alma que se foi muito cedo deste universo. Foi encontrar o Pai Celestial. Que sua memória seja lembrada e que seu legado seja perpetuado. Que o Pai Celestial o tenha em sua glória.'
         },
         2001.2: {
             gestao: '2001.2',
-            mestreConselheiro: 'Mestre Conselheiro 2001.2',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2001.2.'
+            mestreConselheiro: 'Rafael Andrade de Souza',
+            idadeAssumida: '19 anos quando assumiu',
+            frase: 'Antes de tentar salvar o planeta, comece arrumando seu próprio quarto (adaptado de declarações de Jordan Peterson).',
+            imagem: '../style/images/dm.png',
+            texto: 'Devo ter um relatório de gestão em algum lugar. Lembro da pintura dos candelabros, acho que nessa época foi feita reforma das capas e aquisição de novas joias (não sei se foi na minha gestão ou perto), mas o objetivo principal das gestões daquela época era trazer fazer iniciações com bom número de pessoas, sem perder a qualidade e o rigor no escrutínio, para garantir a sucessão do capítulo. '
         },
         2001.1: {
             gestao: '2001.1',
-            mestreConselheiro: 'Mestre Conselheiro 2001.1',
+            mestreConselheiro: 'Guilherme Lima de Rosa',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2001.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2001.1.'
         },
         2000.2: {
             gestao: '2000.2',
-            mestreConselheiro: 'Mestre Conselheiro 2000.2',
+            mestreConselheiro: 'Geraldo Santos',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2000.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2000.2.'
         },
         2000.1: {
             gestao: '2000.1',
-            mestreConselheiro: 'Mestre Conselheiro 2000.1',
+            mestreConselheiro: 'Rodrigo Alves',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 2000.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 2000.1.'
         },
         1999.2: {
             gestao: '1999.2',
@@ -468,34 +468,45 @@ Ser Mestre Conselheiro foi, sem dúvida, uma das experiências mais importantes 
         },
         1999.1: {
             gestao: '1999.1',
-            mestreConselheiro: 'Mestre Conselheiro 1999.1',
+            mestreConselheiro: 'Gustavo Favero',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1999.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 1999.1.'
         },
         1998.2: {
             gestao: '1998.2',
-            mestreConselheiro: 'Mestre Conselheiro 1998.2',
+            mestreConselheiro: 'Rosalbo F Jr',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1998.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 1998.2.'
         },
         1998.1: {
             gestao: '1998.1',
-            mestreConselheiro: 'Mestre Conselheiro 1998.1',
-            idadeAssumida: 'Idade desconhecida',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1998.1.'
+            mestreConselheiro: 'Marco Aurélio Koerich',
+            idadeAssumida: '19 anos quando assimiu',
+            // frase: 'Detalhes indisponíveis',
+            imagem: '../style/images/mcs/Marco Aurélio Koerich.jpeg',
+            texto: `Minha trajetoria como mestre conselheiro foi um grande desafio pois tinha 19 anos e depois de um tempo com atividades suspensas decidimos com a força e uniao dos irmaos reabrir e dar um destino pujante ao capitulo.
+As reunioes feitas com Alexander caldeira, Gustavo, Alexandre madeia e outros foram vitais para que nosso capitulo voltasse a operar em harmonia e força.
+Recebemos muito apoio de irmaos de outro capitulos, inclusive do Irmao Anderson Malgueiro que esteve perto a todo tempo.
+Fiz um novo brasao e ele nos deu muita alegria e perspectiva que algo novo, consistente e fortte viria.
+Para dar maior estabilidade assumi mais um mandato e entao o capitulo leve e harmonico se tornou referencia em uniao e ritualistica no estado todo.
+
+Hoje residindo nos EUA quero agradecer a todos os irmãos que me apoiaram, meu padrinho Alexandre Madeira, meu cumpadre e duplamente irmao Anderson Redinha Malgueiro por permitirem fazer parte dessa ordem maravilhosa.
+Feliz e orgulho estou pelos 35 anos de Gloria do São Jose, querendo poder muito rever a todos.
+Que esta futura geração entenda o poder de nossa juventude, e que saibam que o companheirismo esta no centro de tudo, motivo pelo qual refizemos um novo capitulo e que hoje é realidade e referencia estadual.
+Que os tios sempre possam estar apoiando e deixando as lideranças decidirem para apreendizado, mas que no momento oportuno façam suas intervenções para o bem geral da ordem e do capitulo, sem ego e vaidade acima de tudo.
+Desejo Sucesso, força e união a todos.
+`
         },
         1997.2: {
             gestao: '1997.2',
             mestreConselheiro: 'Marco Aurélio Koerich',
             idadeAssumida: '19 anos quando assimiu',
-            frase: 'Detalhes indisponíveis',
-            imagem: null,
+            // frase: 'Detalhes indisponíveis',
+            imagem: '../style/images/mcs/Marco Aurélio Koerich.jpeg',
             texto: `Minha trajetoria como mestre conselheiro foi um grande desafio pois tinha 19 anos e depois de um tempo com atividades suspensas decidimos com a força e uniao dos irmaos reabrir e dar um destino pujante ao capitulo.
 As reunioes feitas com Alexander caldeira, Gustavo, Alexandre madeia e outros foram vitais para que nosso capitulo voltasse a operar em harmonia e força.
 Recebemos muito apoio de irmaos de outro capitulos, inclusive do Irmao Anderson Malgueiro que esteve perto a todo tempo.
@@ -511,100 +522,101 @@ Desejo Sucesso, força e união a todos.
         },
         1997.1: {
             gestao: '1997.1',
-            mestreConselheiro: 'Mestre Conselheiro 1997.1',
+            mestreConselheiro: 'Nenhum Mestre Conselheiro registrado',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1997.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Capítulo estava fechado, por causa da abertura da do capítulo na cidade de Palhoça. Não foi possível obter detalhes sobre a gestão 1997.1.'
         },
         1996.2: {
             gestao: '1996.2',
-            mestreConselheiro: 'Mestre Conselheiro 1996.2',
+            mestreConselheiro: 'Nenhum Mestre Conselheiro registrado',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1996.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Capítulo estava fechado, por causa da abertura da do capítulo na cidade de Palhoça. Não foi possível obter detalhes sobre a gestão 1997.1.'
         },
         1996.1: {
             gestao: '1996.1',
-            mestreConselheiro: 'Mestre Conselheiro 1996.1',
+            mestreConselheiro: 'Nenhum Mestre Conselheiro registrado',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1996.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Capítulo estava fechado, por causa da abertura da do capítulo na cidade de Palhoça. Não foi possível obter detalhes sobre a gestão 1997.1.'
         },
         1995.2: {
             gestao: '1995.2',
-            mestreConselheiro: 'Mestre Conselheiro 1995.2',
+            mestreConselheiro: 'Alex Caldeira',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1995.2.'
+            imagem: '../style/images/mcs/Alex Caldeira.jpeg',
+            texto: 'Não foi possível obter detalhes sobre a gestão 1995.2.'
         },
         1995.1: {
             gestao: '1995.1',
-            mestreConselheiro: 'Mestre Conselheiro 1995.1',
+            mestreConselheiro: 'Alex Caldeira',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1995.1.'
+            imagem: '../style/images/mcs/Alex Caldeira.jpeg',
+            texto: 'Não foi possível obter detalhes sobre a gestão 1995.1.'
         },
         1994.2: {
             gestao: '1994.2',
-            mestreConselheiro: 'Mestre Conselheiro 1994.2',
+            mestreConselheiro: 'Rycharde Farah',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1994.2.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 1994.2.'
         },
         1994.1: {
             gestao: '1994.1',
-            mestreConselheiro: 'Mestre Conselheiro 1994.1',
+            mestreConselheiro: 'Rycharde Farah',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes sobre a gestão 1994.1.'
+            imagem: '../style/images/dm.png',
+            texto: 'Não foi possível obter detalhes sobre a gestão 1994.1.'
         },
         1993.2: {
             gestao: '1993.2',
             mestreConselheiro: 'Fabiano Linhares',
             idadeAssumida: 'Idade desconhecida',
             frase: 'Detalhes indisponíveis',
-            imagem: null,
-            texto: 'Detalhes desconhecidos sobre a gestão 1993.2.'
+            imagem: '../style/images/mcs/Fabiano Linhares.jpeg',
+            texto: 'Não foi possível obter detalhes sobre a gestão 1993.2.'
         },
         1993.1: {
             gestao: '1993.1',
             mestreConselheiro: 'Nenhum',
-            // idadeAssumida: 'Idade desconhecida',
-            // frase: 'Detalhes indisponíveis',
+            idadeAssumida: 'Idade desconhecida',
+            frase: 'Detalhes indisponíveis',
             imagem: '../style/images/dm.png',
-            texto: 'O capítulo foi fundado em 1991.2, porém ele só foi ser instalado em 1993.2 Ficou 2 anos sem gestão...'
+            texto: 'O capítulo de São José foi fundado em 1991.2, porém ele só foi ser instalado com oficiais na gestão de 1993.2, então desde 1991.2 até 1993.2 não houve mestre conselheiro.'
         },
         1992.2: {
-            gestao: '1992.2',
+            gestao: '1992.3',
             mestreConselheiro: 'Nenhum',
-            // idadeAssumida: 'Idade desconhecida',
-            // frase: 'Detalhes indisponíveis',
+            idadeAssumida: 'Idade desconhecida',
+            frase: 'Detalhes indisponíveis',
             imagem: '../style/images/dm.png',
-            texto: 'O capítulo foi fundado em 1991.2, porém ele só foi ser instalado em 1993.2 Ficou 2 anos sem gestão...'
+            texto: 'O capítulo de São José foi fundado em 1991.2, porém ele só foi ser instalado com oficiais na gestão de 1993.2, então desde 1991.2 até 1993.2 não houve mestre conselheiro.'
         },
         1992.1: {
             gestao: '1992.1',
             mestreConselheiro: 'Nenhum',
-            // idadeAssumida: 'Idade desconhecida',
-            // frase: 'Detalhes indisponíveis',
+            idadeAssumida: 'Idade desconhecida',
+            frase: 'Detalhes indisponíveis',
             imagem: '../style/images/dm.png',
-            texto: 'O capítulo foi fundado em 1991.2, porém ele só foi ser instalado em 1993.2 Ficou 2 anos sem gestão...'
+            texto: 'O capítulo de São José foi fundado em 1991.2, porém ele só foi ser instalado com oficiais na gestão de 1993.2, então desde 1991.2 até 1993.2 não houve mestre conselheiro.'
         },
-        1991.2: {
-            gestao: '1991.2',
+        1991.1: {
+            gestao: '1992.1',
             mestreConselheiro: 'Nenhum',
-            // idadeAssumida: 'Idade desconhecida',
-            // frase: 'Detalhes indisponíveis',
+            idadeAssumida: 'Idade desconhecida',
+            frase: 'Detalhes indisponíveis',
             imagem: '../style/images/dm.png',
-            texto: 'O capítulo foi fundado em 1991.2, porém ele só foi ser instalado em 1993.2 Ficou 2 anos sem gestão...'
+            texto: 'O capítulo de São José foi fundado em 1991.2, porém ele só foi ser instalado com oficiais na gestão de 1993.2, então desde 1991.2 até 1993.2 não houve mestre conselheiro.'
         }
+
     };
 
     return mockData[id] || null;
@@ -620,7 +632,7 @@ function mySpan(id) {
             mestreConselheiro: 'Mestre Conselheiro desconhecido',
             idadeAssumida: 'Idade desconhecida',
             texto: 'Detalhes indisponíveis.',
-            imagem: 'null'
+            imagem: '../style/images/dm.png',
         };
     }
 
