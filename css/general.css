@@ -1,0 +1,333 @@
+/*
+  Índice
+  1. Variáveis (tema escuro = padrão, tema claro = override)
+  2. Base
+  3. Header
+  4. Introdução
+  5. Galeria (grid + cards)
+  6. Modal
+  7. Footer
+*/
+
+/* ========== 1. Variáveis ========== */
+
+:root {
+    --brand-primary: #001773;
+    --brand-primary-deep: #000b2f;
+    --text-primary: #111111;
+    --text-on-brand: #ffffff;
+    --card-bg: #ffffff;
+    --card-border: #000000;
+    --intro-bg: rgba(0, 23, 115, 0.82);
+    --popup-bg: #000b2f;
+    --popup-text: #ffffff;
+    --overlay-bg: rgba(0, 0, 0, 0.65);
+    --footer-bg: var(--brand-primary-deep);
+    --focus-ring: #7aa2ff;
+    --body-bg-image: url('../images/backgrounds/background-dark-mode.png');
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --text-primary: #ffffff;
+        --card-bg: #0120a0;
+        --card-border: #ffffff;
+        --popup-bg: #0120a0;
+        --footer-bg: var(--brand-primary);
+        --body-bg-image: url('../images/backgrounds/background-light-mode.png');
+    }
+}
+
+/* ========== 2. Base ========== */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    color: var(--text-primary);
+    background-color: var(--brand-primary-deep);
+    background-image: var(--body-bg-image);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body.modal-aberto {
+    overflow: hidden;
+}
+
+button {
+    font: inherit;
+    color: inherit;
+}
+
+:focus-visible {
+    outline: 0.19rem solid var(--focus-ring);
+    outline-offset: 0.2rem;
+}
+
+/* ========== 3. Header ========== */
+
+header {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    align-items: center;
+    gap: 1rem;
+    padding: clamp(1rem, 3vw, 2rem) clamp(1rem, 3vw, 2rem);
+    color: var(--text-on-brand);
+}
+
+.logo {
+    width: clamp(3.5rem, 10vw, 7rem);
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+    background-color: var(--brand-primary);
+}
+
+header .center {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1rem;
+}
+
+header .elements {
+    min-width: min(15rem, 100%);
+    min-height: 3rem;
+    padding: 0 clamp(1rem, 3vw, 2rem);
+    border: none;
+    border-radius: 0.75rem;
+    background-color: var(--brand-primary);
+    color: var(--text-on-brand);
+    font-weight: bold;
+    text-align: center;
+}
+
+header .elements:hover:not(:disabled),
+header .elements:focus-visible {
+    background-color: var(--brand-primary-deep);
+    cursor: pointer;
+}
+
+header .elements:disabled {
+    cursor: not-allowed;
+}
+
+/* ========== 4. Introdução ========== */
+
+.intro {
+    width: min(90%, 64rem);
+    margin: 0 auto 6vh;
+    padding: clamp(1rem, 3vw, 2rem);
+    border-radius: 1rem;
+    background-color: var(--intro-bg);
+    color: var(--text-on-brand);
+    text-align: justify;
+    hyphens: auto;
+    line-height: 1.6;
+}
+
+.intro h1 {
+    margin: 0 0 1rem;
+    text-align: center;
+    font-size: clamp(1.5rem, 4vw, 2.25rem);
+    line-height: 1.2;
+}
+
+.intro-footer {
+    margin-top: 1rem;
+    text-align: center;
+    font-style: italic;
+}
+
+/* ========== 5. Galeria ========== */
+
+.container {
+    flex: 1;
+    width: 100%;
+    padding: 0 clamp(1rem, 3vw, 2rem) 8vh;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr));
+    gap: clamp(1rem, 3vw, 2rem);
+    justify-items: center;
+    max-width: 72rem;
+    margin: 0 auto;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    width: 100%;
+    max-width: 11rem;
+    aspect-ratio: 2 / 3;
+    padding: 0.75rem;
+    border: 0.0625rem solid var(--card-border);
+    border-radius: 0.5rem;
+    background-color: var(--card-bg);
+    color: var(--text-primary);
+    text-align: center;
+    cursor: pointer;
+    overflow: hidden;
+    transition: box-shadow 0.15s ease;
+}
+
+.card:hover {
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.35);
+}
+
+.card-image {
+    width: 75%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border: 0.13rem solid var(--card-border);
+    border-radius: 50%;
+    background-color: var(--brand-primary-deep);
+}
+
+.card h4 {
+    font-size: 1rem;
+}
+
+.erro {
+    grid-column: 1 / -1;
+    max-width: 40rem;
+    padding: 1rem 1.5rem;
+    border-radius: 0.5rem;
+    background-color: var(--intro-bg);
+    color: var(--text-on-brand);
+    text-align: center;
+    line-height: 1.5;
+}
+
+/* ========== 6. Modal ========== */
+
+.popup-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    background-color: var(--overlay-bg);
+}
+
+.popup-modal {
+    position: relative;
+    width: min(100%, 42rem);
+    max-height: 85vh;
+    padding: clamp(1.5rem, 5vw, 3rem);
+    border-radius: 1rem;
+    background: var(--popup-bg);
+    color: var(--popup-text);
+    box-shadow: 0 0.6rem 2.5rem rgba(0, 0, 0, 0.45);
+    overflow-x: hidden;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+
+.popup-close {
+    position: absolute;
+    top: 0.75rem;
+    right: 0.75rem;
+    width: 2.25rem;
+    height: 2.25rem;
+    border: 0.0625rem solid var(--popup-text);
+    border-radius: 50%;
+    background: transparent;
+    color: var(--popup-text);
+    font-size: 1.75rem;
+    line-height: 1;
+    cursor: pointer;
+}
+
+.popup-close:hover {
+    background-color: rgba(255, 255, 255, 0.15);
+}
+
+.popup-header {
+    display: flex;
+    align-items: center;
+    gap: 1.25rem;
+    margin-bottom: 1.5rem;
+}
+
+.popup-image {
+    flex: none;
+    width: 6rem;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 0.13rem solid var(--popup-text);
+}
+
+.popup-title {
+    font-size: clamp(1.25rem, 3vw, 1.5rem);
+}
+
+.popup-content {
+    line-height: 1.6;
+}
+
+.popup-content p {
+    margin-bottom: 0.75rem;
+    text-align: justify;
+    hyphens: auto;
+}
+
+.popup-frase {
+    padding-left: 1rem;
+    border-left: 0.2rem solid rgba(255, 255, 255, 0.4);
+}
+
+/* Preserva as quebras de linha vindas do JSON (\n) */
+.popup-texto {
+    white-space: pre-line;
+}
+
+.popup-vazio {
+    font-style: italic;
+    opacity: 0.8;
+}
+
+/* Telas estreitas: foto acima do título */
+@media (max-width: 30rem) {
+    .popup-header {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+/* ========== 7. Footer ========== */
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 4rem;
+    background-color: var(--footer-bg);
+    color: var(--text-on-brand);
+    text-align: center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .card {
+        transition: none;
+    }
+}
